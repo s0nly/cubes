@@ -1,0 +1,44 @@
+body {
+    margin: 50px;
+    padding: 0;
+    background-color: #88ADDF;
+    font-weight: 100;
+}
+
+h1 {
+    color: #FFF;
+    text-align: center;
+}
+
+.container {
+    position: relative;
+    margin: 0 auto;
+    width: 1850px;
+}
+
+.thumb {
+    position: relative;
+    float: left;
+    overflow: hidden;
+    margin: 1px;
+    width: 100px;
+    height: 100px;
+}
+
+.cube {
+    width: 100px;
+    height: 100px;
+    background-color: #fff;
+}
+.cube1 {
+    width: 100px;
+    height: 100px;
+    background-color: #fff;
+}
+
+.alt {
+    position: absolute;
+    top: 0;
+    left: -100%;
+    background-color: #88ADDF;
+}
